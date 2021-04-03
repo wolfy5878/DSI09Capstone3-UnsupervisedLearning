@@ -14,3 +14,5 @@ Project artifacts in this repo:
 * Notebook-UMLDataPreProcessing - Jupyter Notebook detailing the steps used to extract the subset of data for this analysis from the original Kaggle dataset.
 * Notebook-UnsupervisedLearningCapstone - Jupyter Notebook detailing the analysis conducted on the preprocessed data.
 * Presentation-UnsupervisedLearningCapstone - Presentation slides outlining conclusions as presented to the DSI09 cohort for comittee review and grading.
+
+# **Sláinte!**
