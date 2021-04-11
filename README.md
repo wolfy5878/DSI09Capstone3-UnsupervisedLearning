@@ -1,5 +1,3 @@
-# **WORK IN PROGRESS!**
-
 # DSI09Capstone3-UnsupervisedLearning
 
 ## It's St. Patrick's Day - Let's open up a proper Irish Pub!
